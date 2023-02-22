@@ -1,0 +1,106 @@
+/*      Everything comes under Task-1
+
+body{
+    background-color: #DAEAF1;
+    margin: 0%;
+}
+.Main{
+    background-color: #BDF2D5;
+    padding: 20px;
+    width: 200px;
+    height: 200px;
+    border :solid 10px;
+}
+.MiddleContainer{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    border :solid 20px;
+    margin-left: 260px;
+}
+.BottomContainer{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    border :solid 10px;
+    margin-left: 520px;
+}
+                        */
+
+.Main{
+    background-color: #DAEAF1; 
+}
+body{
+    background-color:whitesmoke;
+    text-align: center;
+    margin: 0px;
+}
+.bird-left {
+    margin-right: 700px;
+    margin-top: 20px;
+}
+.cloud-2{
+    margin-left: 700px;
+}
+.heading{
+    color: #1F4690;
+    font-family: 'Sacramento', cursive;
+    font-size:5.3125rem;
+    /* margin: 10px auto; */
+    font-weight: bold;
+    margin: auto;
+    width: 50%;
+}
+.line-2{
+    font-family: cursive;
+    font-size:1.5rem;
+    margin: 0px 45rem;
+    width: 50%;
+}
+.profilepic{
+    margin: 0px 40rem;
+}
+.profile{
+    margin-left: 5%;
+    padding: 90px;
+}
+h1{
+    font-size: 2.3rem;
+    font-family: cursive;
+    color: #11999E; 
+    font-weight: normal;
+    line-height: 2;
+}
+p{
+    font-family: 'Bree Serif', serif;
+    font-size: 1.3125rem;
+    line-height: 2;
+    margin: 0px; 
+}
+.skills-head{
+    margin-left: 70px;
+    text-align: center;
+    line-height: 2; 
+}
+
+.skills{
+    width: 70%;
+    line-height: 1;
+    margin: 100px auto;
+    text-align: left;
+}
+.web-dev{
+    float: left;
+    margin-right: 35px;
+}
+
+.bottom-medias{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.centre{
+    margin: auto;
+    width: 50%;
+}
